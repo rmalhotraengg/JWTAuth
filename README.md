@@ -1,6 +1,7 @@
 # Prerequisites
 
 Docker hub account
+
 Azure account
 
 
