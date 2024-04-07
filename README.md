@@ -4,7 +4,6 @@ Docker hub account
 
 Azure account
 
-
 # JWTAuth
 Dockerzied Azure Container App For JWT Authentication
 
